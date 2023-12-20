@@ -14,3 +14,7 @@ https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb
 
 REPG
 https://github.com/InfoSecREDD/REPG
+
+UberGuidoZ master repo
+https://github.com/UberGuidoZ/Flipper
+
